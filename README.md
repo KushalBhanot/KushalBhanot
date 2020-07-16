@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there! 👋🏻
 
-<!--
-**KushalBhanot/KushalBhanot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Kushal Bhanot,
+a sophomore at Chitkara University, doing Bachelor's in Computer Science and Engineering.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👨🏻‍💻 I’m currently learning iOS and Swift 
+- 🤝🏻 I’m currently working on Community Development (about to announce something special soon 😁)
+- 👀 I’m looking to collaborate on Open Source Projects
+- 🤔 I’m looking for help with Research Papers
+- 💬 Ask me about iOS | Machine Leaning | Astrophysics
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I'm a mobile photographer 
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=KushalBhanot&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
