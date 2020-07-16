@@ -1,7 +1,7 @@
 ### Hey there! 👋🏻
 
 # I'm Kushal Bhanot,
-a sophomore at Chitkara University, doing Bachelor's in Computer Science and Engineering.
+a sophomore at Chitkara University, doing Bachelor's in Computer Science and Engineering. <br>
 [![HitCount](http://hits.dwyl.com/KushalBhanot/KushalBhanot.svg)](http://hits.dwyl.com/KushalBhanot/KushalBhanot)
 
 - 👨🏻‍💻 I’m currently learning iOS and Swift 
