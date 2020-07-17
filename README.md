@@ -6,7 +6,7 @@ a sophomore at Chitkara University, doing Bachelor's in Computer Science and Eng
 - 👨🏻‍💻 I’m currently learning iOS and Swift 
 - 🤝🏻 I’m currently working on Community Development (about to announce something special soon 😁)
 - ⭐ Campus SuperHero @[Coding Blocks](https://codingblocks.com/) (was chosen as the top performer)
-- ⚡ Official Student Volunteer for [Progate](https://progate.com/about/vision)
+- 🌱 Official Student Volunteer for [Progate](https://progate.com/about/vision)
 - 👀 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Research Papers
 - 💬 Ask me about iOS | Machine Leaning | Astrophysics | Community Development
