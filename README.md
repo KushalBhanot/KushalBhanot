@@ -12,9 +12,16 @@ a sophomore at Chitkara University, doing Bachelor's in Computer Science and Eng
 - 💬 Ask me about iOS | Machine Leaning | Astrophysics | Community Development
 - ⚡ Fun fact: I'm a [mobile photographer](https://instagram.com/kushal.bhanot/) 
 
-<a href="https://www.linkedin.com/in/kushal-bhanot-5495aa88/">
+<!--<a href="https://www.linkedin.com/in/kushal-bhanot-5495aa88/">
   <img src="https://img.shields.io/badge/Linkedin-Kushal%20Bhanot-blue?style=for-the-badge&logo=linkedin">
-</a>
+</a>-->
+
+<p align="center">
+<a href="https://twitter.com/bhanot_kushal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/kushalbhanot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushalbhanot" height="20" width="20" /></a>
+<a href="https://fb.com/kushal.bhanot.98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="20" width="20" /></a>
+<a href="https://instagram.com/kushal.bhanot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="20" width="20" /></a>
+</p>
  
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=KushalBhanot&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
