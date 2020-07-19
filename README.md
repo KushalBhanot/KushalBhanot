@@ -3,6 +3,8 @@
 # I'm Kushal Bhanot,
 a sophomore at Chitkara University, doing Bachelor's in Computer Science and Engineering.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalbhanot" alt="kushalbhanot" /> </p>
+
 - 👨🏻‍💻 I’m currently learning iOS and Swift 
 - 🤝🏻 I’m currently working on Community Development (about to announce something special soon 😁)
 - ⭐ Campus SuperHero @[Coding Blocks](https://codingblocks.com/) (was chosen as the top performer)
