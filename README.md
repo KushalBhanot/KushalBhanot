@@ -5,6 +5,8 @@ a sophomore at Chitkara University, doing Bachelor's in Computer Science and Eng
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalbhanot" alt="kushalbhanot" /> </p>
 
+<img align="right" alt="GIF" src="https://giphy.com/gifs/adweek-apple-adweek-arc-awards-share-your-gifts-UrbxW0IfplvrVuhbYH" />
+
 - 👨🏻‍💻 I’m currently learning iOS and Swift 
 - 🤝🏻 I’m currently working on Community Development (about to announce something special soon 😁)
 - ⭐ Campus SuperHero @[Coding Blocks](https://codingblocks.com/) (was chosen as the top performer)
