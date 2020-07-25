@@ -23,7 +23,11 @@ a sophomore at Chitkara University, doing Bachelor's in Computer Science and Eng
 <!--<img src="https://konpa.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/>-->
 **Languages and Frameworks:**
 <p align="left">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>&nbsp; <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp; <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp; <img src="https://konpa.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40" />&nbsp; <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp; <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp; <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp; <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>&nbsp; <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp; <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp; <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+&nbsp; <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+&nbsp; <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+nbsp; <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+ 
   </p>
 
 **Connect with me:**
