@@ -1,7 +1,7 @@
-### Hey there! 👋🏻
+### Hey there! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
 
 # I'm Kushal Bhanot,
-a sophomore at Chitkara University, doing Bachelor's in Computer Science and Engineering.
+an 18 yo <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> sophomore at Chitkara University, doing Bachelor's in Computer Science and Engineering.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalbhanot" alt="kushalbhanot" /> </p>
 
@@ -32,7 +32,7 @@ a sophomore at Chitkara University, doing Bachelor's in Computer Science and Eng
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40" /></code>
    </p>
 
-**Connect with me:**
+**Connect with me: <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />**
 <p align="left">
   <a href="https://linkedin.com/in/kushalbhanot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushalbhanot" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="https://instagram.com/kushal.bhanot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
