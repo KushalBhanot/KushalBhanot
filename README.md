@@ -3,8 +3,6 @@
 # I'm Kushal Bhanot,
 an 18 yo <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> sophomore at Chitkara University, doing Bachelor's in Computer Science and Engineering.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalbhanot" alt="kushalbhanot" /> </p>
-
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/0f7bb48e684d9374e8d31d7732b306a0/tumblr_mzn7lfB8c21qkek80o1_500.gifv" width="300" height="300" />
 
 - 👨🏻‍💻 I’m currently learning iOS and Swift 
@@ -39,6 +37,8 @@ an 18 yo <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/R
 <a href="https://twitter.com/bhanot_kushal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://fb.com/kushal.bhanot.98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalbhanot" alt="kushalbhanot" /> </p>
  
 <!-- <br>
 <img src="https://github-readme-stats.vercel.app/api?username=KushalBhanot&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/> -->
