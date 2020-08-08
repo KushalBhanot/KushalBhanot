@@ -3,7 +3,7 @@
 # I'm Kushal Bhanot,
 an 18 yo <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> sophomore at Chitkara University, doing Bachelor's in Computer Science and Engineering.
 
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/0f7bb48e684d9374e8d31d7732b306a0/tumblr_mzn7lfB8c21qkek80o1_500.gifv" width="300" height="300" />
+<!--<img align="right" alt="GIF" src="https://64.media.tumblr.com/0f7bb48e684d9374e8d31d7732b306a0/tumblr_mzn7lfB8c21qkek80o1_500.gifv" width="300" height="300" />-->
 
 - 👨🏻‍💻 I’m currently learning iOS and Swift 
 - 🤝🏻 I’m currently working on Community Development (about to announce something special soon 😁)
