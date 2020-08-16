@@ -5,6 +5,7 @@ an 18 yo <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/R
 
 <a href="http://kushalbhanot.github.io"><img src="https://github.com/KushalBhanot/KushalBhanot/blob/master/Assets/Images/Readme%20Hero.png" width="100%"></a>
 
+#
 <!--<img align="right" alt="GIF" src="https://64.media.tumblr.com/0f7bb48e684d9374e8d31d7732b306a0/tumblr_mzn7lfB8c21qkek80o1_500.gifv" width="300" height="300" />-->
 
 - 👨🏻‍💻 I’m currently working on a web-dev project
