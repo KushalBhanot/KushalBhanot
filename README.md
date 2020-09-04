@@ -12,7 +12,6 @@ an 18 yo <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/R
 - 📖 Currently reading The Innovators: How a group of hackers, genuises and geeks created the digital revolution
 - 🤝 Trying to build a Dev Community (about to announce something special soon 😁)
 - ⭐ Campus SuperHero @[Coding Blocks](https://codingblocks.com/) (was chosen as the top performer)
-- 🌱 Official Student Volunteer for [Progate](https://progate.com/about/vision)
 - 👀 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Research Papers
 - 💬 Ask me about iOS | Machine Leaning | Astrophysics | Community Development
