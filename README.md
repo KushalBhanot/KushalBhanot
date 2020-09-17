@@ -10,7 +10,7 @@ an 18 yo <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/R
 
 - 👨🏻‍💻 I’m currently learning React
 - 📖 Currently reading The Innovators: How a group of hackers, genuises and geeks created the digital revolution
-- 🤝 Trying to build a Dev Community (about to announce something special soon 😁)
+- 🤝 Trying to build a Dev Community
 - 👀 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: I'm a [mobile photographer](https://instagram.com/kushal.bhanot/) 
 
