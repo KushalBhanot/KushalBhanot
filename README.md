@@ -8,13 +8,10 @@ an 18 yo <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/R
 #
 <!--<img align="right" alt="GIF" src="https://64.media.tumblr.com/0f7bb48e684d9374e8d31d7732b306a0/tumblr_mzn7lfB8c21qkek80o1_500.gifv" width="300" height="300" />-->
 
-- 👨🏻‍💻 I’m currently learning iOS Dev
+- 👨🏻‍💻 I’m currently learning React
 - 📖 Currently reading The Innovators: How a group of hackers, genuises and geeks created the digital revolution
 - 🤝 Trying to build a Dev Community (about to announce something special soon 😁)
-- ⭐ Campus SuperHero @[Coding Blocks](https://codingblocks.com/) (was chosen as the top performer)
 - 👀 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with Research Papers
-- 💬 Ask me about iOS | Machine Leaning | Astrophysics | Community Development
 - ⚡ Fun fact: I'm a [mobile photographer](https://instagram.com/kushal.bhanot/) 
 
 <!--<a href="https://www.linkedin.com/in/kushal-bhanot-5495aa88/">
