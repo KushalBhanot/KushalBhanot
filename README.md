@@ -1,7 +1,7 @@
 <a href="http://kushalbhanot.github.io"><img src="https://github.com/KushalBhanot/KushalBhanot/blob/master/Hero%20Design%20Update%20for%20GitHub.png" width="100%"></a>
 
 #
-- 👨🏻‍💻 I’m currently learning iOS Dev
+- 👨🏻‍💻 I’m currently learning React
 - 📖 Currently reading The Innovators: How a group of hackers, genuises and geeks created the digital revolution
 - 🤝 Trying to build a Dev Community
 - 👀 I’m looking to collaborate on Open Source Projects
