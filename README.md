@@ -1,4 +1,4 @@
-<a href="http://kushalbhanot.github.io"><img src="https://github.com/KushalBhanot/KushalBhanot/blob/master/Banner%20v2.png" width="100%"></a>
+<a href="http://kushalbhanot.github.io"><img src="https://github.com/KushalBhanot/KushalBhanot/blob/master/Banner%20v2%20(1).png" width="100%"></a>
 
 #
 - 👨🏻‍💻 Working on some projects for hackathons
