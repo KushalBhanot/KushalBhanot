@@ -1,4 +1,4 @@
-<a href="http://kushiosdev.github.io"><img src="https://github.com/kushiosdev/kushiodev/blob/master/v2.2%20GitHub.png" width="100%"></a>
+<a href="http://kushiosdev.github.io"><img src="https://github.com/kushiosdev/KushalBhanot/blob/master/v2.2%20GitHub.png" width="100%"></a>
 
 #
 - 👨🏻‍💻 Working on some projects for hackathons
@@ -29,4 +29,4 @@
 <a href="https://fb.com/kushal.bhanot.98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="20" width="20" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushiosdev" alt="kushiosdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KushalBhanot" alt="Kushal Bhanot" /> </p>
