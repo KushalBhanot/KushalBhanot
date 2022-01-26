@@ -2,7 +2,7 @@
 
 #
 - 👨🏻‍💻 Working on some projects
-- 📖 Currently reading Homo Deus by Dr Yuval Noah Harari
+- 📖 Currently reading The Almanack of Naval Ravikant by Eric Jorgenson
 - 🤝 Open to Internships
 - ⚡ Fun fact: I'm a [mobile photographer](https://instagram.com/kushal.bhanot/) 
 
