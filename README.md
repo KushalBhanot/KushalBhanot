@@ -2,8 +2,8 @@
 
 #
 - 👨🏻‍💻 Working on some projects
-- 📖 Currently reading The Almanack of Naval Ravikant by Eric Jorgenson
-- 🤝 Open to full-time roles
+- 📖 Currently reading AI Engineering by Chip Huyen
+- 🤝 Open to full-time roles in the Bay Area - SF, LA, etc.
 - ⚡ Fun fact: I'm a [mobile photographer](https://instagram.com/kushal.bhanot/) 
 
 <!-- **Languages and Frameworks:**
