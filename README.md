@@ -1,10 +1,22 @@
 <a href="https://www.linkedin.com/in/kushalbhanot/"><img src="https://github.com/KushalBhanot/KushalBhanot/blob/master/Banner_Jun21.png" width="100%"></a>
 
-#
-- 👨🏻‍💻 Working on some projects
-- 📖 Currently reading AI Engineering by Chip Huyen
-- 🤝 Open to full-time roles in the Bay Area - SF, LA, etc.
-- ⚡ Fun fact: I'm a [mobile photographer](https://instagram.com/kushal.bhanot/) 
+---
+- 🚀 Latest: [EduReach](https://github.com/KushalBhanot/EduReach) — offline AI tutor, 6 languages, grade-adaptive, Gemma 4
+- 📖 Reading: *AI Engineering* by Chip Huyen
+- 🌎 Open to SWE / Mobile roles in the Bay Area starting Summer 2027
+- 📷 Mobile photographer on the side → [@kushal.bhanot](https://instagram.com/kushal.bhanot/)
+
+---
+
+**Stack I actually use:**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Rive](https://img.shields.io/badge/Rive-1D1D1D?style=flat&logo=rive&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 <!-- **Languages and Frameworks:**
 <p align="left">
