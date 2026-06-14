@@ -3,7 +3,7 @@
 ---
 - 🚀 Latest: [EduReach](https://github.com/KushalBhanot/EduReach) — offline AI tutor, 6 languages, grade-adaptive, Gemma 4
 - 📖 Reading: *AI Engineering* by Chip Huyen
-- 🌎 Open to SWE / Mobile roles in the Bay Area starting Summer 2027
+- 🔍 Looking for Summer 2027 Software Engineering Internships (Bay Area / Remote)
 - 📷 Mobile photographer on the side → [@kushal.bhanot](https://instagram.com/kushal.bhanot/)
 
 ---
