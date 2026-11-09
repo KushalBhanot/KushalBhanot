@@ -1,43 +1,33 @@
-<a href="https://www.linkedin.com/in/kushalbhanot/"><img src="https://github.com/KushalBhanot/KushalBhanot/blob/master/Banner_Jun21.png" width="100%"></a>
+### Hi, I'm Kushal 👋
 
----
-- 🚀 Latest: [EduReach](https://github.com/KushalBhanot/EduReach) — offline AI tutor, 6 languages, grade-adaptive, Gemma 4
-- 📖 Reading: *AI Engineering* by Chip Huyen
-- 🔍 Looking for Summer 2027 Software Engineering Internships (Bay Area / Remote)
-- 📷 Mobile photographer on the side → [@kushal.bhanot](https://instagram.com/kushal.bhanot/)
+Software engineer and MS CS student at USC ('28). I spent 3+ years shipping React Native and Next.js apps at Rario (Dream Sports), and now I build with Python and LLMs.
 
----
+🔍 Looking for **Summer 2027 software engineering internships** across the US.
 
-**Stack I actually use:**
+**What I'm building**
+
+- **[Syncopate](https://github.com/KushalBhanot/syncopate)**: word-level lyric aligner (Demucs + torchaudio) served over FastAPI and WebSockets. Places 79.1% of lines within 300 ms on the JamendoLyrics benchmark.
+- **[react-polaroid-carousel](https://github.com/KushalBhanot/react-polaroid-carousel)**: zero-dependency React carousel on npm, under 5 kB gzipped, with 700+ downloads in its first week.
+- **[EduReach](https://github.com/KushalBhanot/EduReach)**: AI tutor app with Gemini and Gemma model tiers and an offline question queue that replays questions on reconnect.
+- **USC Annenberg Media**: rebuilt a campaign finance tool for the 2026 California House races as a React block on Arc XP ([live](https://www.uscannenbergmedia.com/follow-the-money/)).
+
+📖 Reading: *AI Engineering* by Chip Huyen<br>
+📷 Mobile photographer on the side → [@kushal.bhanot](https://instagram.com/kushal.bhanot/)
+
+**Stack I actually use**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Rive](https://img.shields.io/badge/Rive-1D1D1D?style=flat&logo=rive&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<!-- **Languages and Frameworks:**
-<p align="left">
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="20" height="20"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="python" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cplusplus" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="html" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="javascript" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="node" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="20" height="20" /></code>
-   </p> -->
+[LinkedIn](https://www.linkedin.com/in/kushalbhanot/) · [Website](https://www.kushalbhanot.com/) · developerkushalb@gmail.com
 
-<!-- **Connect with me: <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />**
-<p align="left">
-  <a href="https://linkedin.com/in/kushalbhanot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushalbhanot" height="20" width="20" /></a> &nbsp;&nbsp;
-  <a href="https://instagram.com/kushiosdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="20" width="20" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/kushiosdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="20" width="20" /></a> &nbsp;&nbsp;
-<a href="https://fb.com/kushal.bhanot.98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="20" width="20" /></a>
-</p> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KushalBhanot" alt="Kushal Bhanot" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=KushalBhanot" alt="profile views" /></p>
